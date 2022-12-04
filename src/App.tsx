@@ -1,5 +1,5 @@
 import reactLogo from './assets/react.svg'
-import Banner from './components/banner/banner'
+import Banner from './components/Banner/banner'
 import db1 from '/db1.png'
 import db2 from '/db2.png'
 import { Routes, Route } from 'react-router-dom'
